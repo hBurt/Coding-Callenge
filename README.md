@@ -2,15 +2,13 @@
 
 A coding challenge for walkoff
 
-## Getting Started
+## Notes
 
-This project is a starting point for a Flutter application.
+App is structured to only work for two candidates.
 
-A few resources to get you started if this is your first Flutter project:
+## Media
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Prepackaged Json File      | User Selected Json File       |
+| -------------- | -------------- |
+| <img src="https://i.imgur.com/NVDGFbO.png" width="270" height="570" /> | <img src="https://i.imgur.com/pz8vFlC.png" width="270" height="570" />    |
+| <img src="https://i.imgur.com/ArzZyzT.png" width="270" height="570" /> | <img src="https://i.imgur.com/8AWAaIk.png" width="270" height="570" /> |
