@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "name": "John",
+        "state_chances_of_winning": [
+            {
+                "state_id": 0,
+                "chance": 20
+            },
+            {
+                "state_id": 1,
+                "chance": 70
+            },
+            {
+                "state_id": 2,
+                "chance": 20
+            },
+            {
+                "state_id": 3,
+                "chance": 85
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Jane",
+        "state_chances_of_winning": [
+            {
+                "state_id": 0,
+                "chance": 54
+            },
+            {
+                "state_id": 1,
+                "chance": 45
+            },
+            {
+                "state_id": 2,
+                "chance": 71
+            },
+            {
+                "state_id": 3,
+                "chance": 40
+            }
+        ]
+    }
+]

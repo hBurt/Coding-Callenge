@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "name": "Alaska",
+        "votes": 24
+    },
+    {
+        "id": 1,
+        "name": "Texas",
+        "votes": 75
+    },
+    {
+        "id": 2,
+        "name": "California",
+        "votes": 59
+    },
+    {
+        "id": 3,
+        "name": "Kansas",
+        "votes": 12
+    },
+    {
+        "id": 4,
+        "name": "Washington",
+        "votes": 20
+    }
+]
