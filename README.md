@@ -1,6 +1,8 @@
 # coding_challenge
 
-A coding challenge for walkoff
+A coding challenge for walkoff.
+
+Simulates the results of an election from two seperate JSON files
 
 ## Notes
 
